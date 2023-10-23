@@ -1,0 +1,17 @@
+D:\Projects\ScheduleSMK\ScheduleSMK\bin\Debug\net7.0\ScheduleSMK.exe
+D:\Projects\ScheduleSMK\ScheduleSMK\bin\Debug\net7.0\ScheduleSMK.deps.json
+D:\Projects\ScheduleSMK\ScheduleSMK\bin\Debug\net7.0\ScheduleSMK.runtimeconfig.json
+D:\Projects\ScheduleSMK\ScheduleSMK\bin\Debug\net7.0\ScheduleSMK.dll
+D:\Projects\ScheduleSMK\ScheduleSMK\bin\Debug\net7.0\ScheduleSMK.pdb
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\ScheduleSMK.csproj.AssemblyReference.cache
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\ScheduleSMK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\ScheduleSMK.AssemblyInfoInputs.cache
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\ScheduleSMK.AssemblyInfo.cs
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\ScheduleSMK.csproj.CoreCompileInputs.cache
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\ScheduleSMK.dll
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\refint\ScheduleSMK.dll
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\ScheduleSMK.pdb
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\ScheduleSMK.genruntimeconfig.cache
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\ref\ScheduleSMK.dll
+D:\Projects\ScheduleSMK\ScheduleSMK\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\ScheduleSMK\ScheduleSMK\obj\Debug\net7.0\ScheduleSMK.csproj.CopyComplete

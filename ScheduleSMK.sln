@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleSMK", "ScheduleSMK\ScheduleSMK.csproj", "{47CA0BBC-C940-49FD-B685-772434D3C133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramEventer", "TelegramEventer\TelegramEventer.csproj", "{9541EBC7-E5C0-4C67-951E-8DAA7BCA2D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleBotSide", "ScheduleBotSide\ScheduleBotSide.csproj", "{CFB99390-397F-4A52-8B86-7820CF3DF86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47CA0BBC-C940-49FD-B685-772434D3C133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CA0BBC-C940-49FD-B685-772434D3C133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CA0BBC-C940-49FD-B685-772434D3C133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CA0BBC-C940-49FD-B685-772434D3C133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9541EBC7-E5C0-4C67-951E-8DAA7BCA2D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9541EBC7-E5C0-4C67-951E-8DAA7BCA2D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9541EBC7-E5C0-4C67-951E-8DAA7BCA2D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9541EBC7-E5C0-4C67-951E-8DAA7BCA2D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB99390-397F-4A52-8B86-7820CF3DF86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB99390-397F-4A52-8B86-7820CF3DF86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB99390-397F-4A52-8B86-7820CF3DF86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB99390-397F-4A52-8B86-7820CF3DF86A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
